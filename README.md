@@ -22,7 +22,7 @@ Projede üç farklı veri dosyası kullanılmıştır.
 
 * CSV dosyalarının okunması
 * Eksik verilerin temizlenmesi
-* Veri setlerinin birleştirilmesi (Merge)
+* Veri setlerinin birleştirilmesi
 * Satış tutarının hesaplanması
 * Groupby ile satış analizleri
 * Apply fonksiyonu kullanımı
